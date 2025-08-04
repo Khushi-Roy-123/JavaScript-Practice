@@ -4,12 +4,12 @@ This repository contains my daily JavaScript practice as I learn the language. E
 
 ## Topics Covered
 - ✅ Variables and Data Types
-- 🚧 Conditional Statements (Coming Soon)
-- 🚧  Loops (Coming Soon)
-- 🚧  Functions (Coming Soon)
-- 🚧  Arrays (Coming Soon)
-- 🚧 Objects (Coming Soon)
-- 🚧 DOM Manipulation (Coming Soon)
+- ✅ Conditional Statements 
+- ✅  Loops 
+- ✅  Functions
+- ✅  Arrays
+- ✅ Objects
+- 🚧 DOM Manipulation
 
 ## How to Run
 You can open `.js` files in your browser console or embed them in HTML files to test.
